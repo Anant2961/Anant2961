@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anant Joshi
-- 👀 I’m interested in Python and Front end
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Front end development
+- 👀 I’m interested in Python and C++
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Projects on Web 
 - 📫 How to reach me anant2961@gmail.com
 
 <!---
