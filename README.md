@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anant2961
+- 👋 Hi, I’m Anant Joshi
 - 👀 I’m interested in Python and Front end
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Front end development
